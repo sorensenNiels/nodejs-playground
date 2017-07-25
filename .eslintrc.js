@@ -191,7 +191,7 @@ module.exports = {
         "quotes": "error",
         "radix": "error",
         "require-await": "error",
-        "require-jsdoc": "error",
+        "require-jsdoc": "off",
         "rest-spread-spacing": "error",
         "semi": "error",
         "semi-spacing": "error",
